@@ -1,0 +1,14 @@
+# Le paquet du défi : téléchargé par src/couverture_strates.py, jamais
+# redistribué. Des couches de référence ont été retirées du paquet d'origine
+# pour une raison, et republier ce qu'on a reçu n'est pas à nous.
+donnees/
+
+# Notes de travail, pas des pièces du dossier : RECONNAISSANCE pèse des
+# concurrents nommément, TROUVAILLE est le brouillon français du mémoire.
+RECONNAISSANCE.md
+TROUVAILLE.md
+SampleSubmission.csv
+
+__pycache__/
+*.pyc
+~$*.docx

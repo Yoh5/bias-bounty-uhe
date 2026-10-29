@@ -1,0 +1,594 @@
+GEOID,aiannh_name,aiannh_kind,pop_total,ur_class,svi_overall,tribal_pct
+40143005809,Cherokee OTSA,statistical,8362,Urban,0.2959,0.9999999999999992
+40143006709,Creek OTSA,statistical,8244,Urban,0.2798,0.9999999999999997
+40131050404,Cherokee OTSA,statistical,7678,Urban,0.2578,0.9999999999999998
+40009966100,Cheyenne and Arapaho OTSA,statistical,7393,Urban,0.5403,0.9999999999999999
+40143005805,Cherokee OTSA,statistical,7369,Urban,0.8082,0.9999999999999991
+40017301003,Cheyenne and Arapaho OTSA,statistical,7086,Urban,0.3782,0.9805897069335457
+40009966200,Cheyenne and Arapaho OTSA,statistical,7078,Urban,0.8802,0.9999999999999981
+40017300901,Cheyenne and Arapaho OTSA,statistical,6764,Urban,0.3473,0.317020316207585
+40027202302,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,6621,Rural,0.2184,0.9999999999999992
+40027202405,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,6617,Rural,0.707,1.0
+40017300201,Cheyenne and Arapaho OTSA,statistical,6406,Rural,0.1956,0.8536061122304277
+40147000700,Cherokee OTSA,statistical,6375,Urban,0.2693,0.9999999999999998
+40031002301,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,6374,Rural,0.2729,1.0
+40017301407,Cheyenne and Arapaho OTSA,statistical,6348,Urban,0.3153,1.0
+40051000902,Chickasaw OTSA,statistical,6316,Rural,0.5249,1.0
+40147000500,Cherokee OTSA,statistical,6311,Urban,0.6175,1.0
+40009966800,Cheyenne and Arapaho OTSA,statistical,6269,Rural,0.7477,0.9999999999999986
+40017301100,Cheyenne and Arapaho OTSA,statistical,6059,Urban,0.627,1.0
+40125501005,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,6009,Rural,0.636,1.0
+40039960701,Cheyenne and Arapaho OTSA,statistical,5983,Urban,0.5225,0.9999999999999994
+40121486500,Choctaw OTSA,statistical,5929,Urban,0.5598,0.9999999999999998
+40125501101,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,5923,Rural,0.7958,0.9999999999999998
+40073958300,Cheyenne and Arapaho OTSA,statistical,5914,Rural,0.6948,1.0
+40017301011,Cheyenne and Arapaho OTSA,statistical,5883,Urban,0.5875,0.668685677560607
+40065968400,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,5882,Urban,0.3311,1.0
+40021978100,Cherokee OTSA,statistical,5860,Urban,0.9176,1.0
+40031002001,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,5802,Urban,0.4693,0.9999999999999994
+40071000100,Kaw/Ponca joint-use OTSA,statistical,5801,Urban,0.9159,0.9999999999999993
+40147001300,Cherokee OTSA,statistical,5799,Rural,0.3899,1.0
+40037021500,Creek OTSA,statistical,5791,Rural,0.5288,0.9999999999999994
+40031002005,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,5735,Rural,0.8069,0.9999999999999981
+40089098800,Choctaw OTSA,statistical,5689,Urban,0.832,0.9999999999999989
+40027202403,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,5637,Rural,0.222,0.9999999999999993
+40087400300,Chickasaw OTSA,statistical,5624,Urban,0.7492,0.9999999999999981
+40089098600,Choctaw OTSA,statistical,5588,Rural,0.8946,1.0
+40137000101,Chickasaw OTSA,statistical,5573,Urban,0.6181,0.9999999999999998
+40087400103,Chickasaw OTSA,statistical,5572,Rural,0.297,1.0
+40041976200,Cherokee OTSA,statistical,5561,Rural,0.8193,1.0
+40087400106,Chickasaw OTSA,statistical,5559,Rural,0.2158,0.9999999999999976
+40145030509,Creek OTSA,statistical,5548,Urban,0.0942,1.0
+40079040301,Choctaw OTSA,statistical,5545,Rural,0.6911,1.0
+40039960600,Cheyenne and Arapaho OTSA,statistical,5504,Urban,0.7559,1.0
+40017301410,Cheyenne and Arapaho OTSA,statistical,5500,Urban,0.4307,0.5010931071103792
+40037020706,Creek OTSA,statistical,5498,Rural,0.6764,1.0
+40131050403,Cherokee OTSA,statistical,5489,Rural,0.2459,1.0
+40079040401,Choctaw OTSA,statistical,5483,Urban,0.9021,1.0
+40087400104,Chickasaw OTSA,statistical,5465,Rural,0.4785,1.0
+40017301302,Cheyenne and Arapaho OTSA,statistical,5444,Urban,0.215,0.9999999999999998
+40101000801,Cherokee OTSA,statistical,5421,Urban,0.6371,0.9999999999999996
+40013796101,Choctaw OTSA,statistical,5419,Urban,0.7605,1.0
+40087400204,Chickasaw OTSA,statistical,5410,Rural,0.4941,1.0
+40113940001,Osage Reservation,legal,5393,Rural,0.8331,0.9999999999999986
+40131050105,Cherokee OTSA,statistical,5383,Urban,0.4235,1.0
+40013796600,Chickasaw OTSA,statistical,5372,Rural,0.7797,0.9999999999999986
+40019892502,Chickasaw OTSA,statistical,5360,Rural,0.387,0.9999999999999993
+40097040400,Cherokee OTSA,statistical,5351,Rural,0.8269,1.0
+40145030601,Creek OTSA,statistical,5349,Rural,0.2178,1.0
+40041376000,Cherokee OTSA,statistical,5345,Rural,0.9324,1.0
+40021977600,Cherokee OTSA,statistical,5307,Rural,0.7244,0.9999999999999978
+40013796002,Choctaw OTSA,statistical,5305,Rural,0.696,1.0
+40015161601,Caddo-Wichita-Delaware OTSA,statistical,5284,Rural,0.8085,0.9999999999999998
+40145030406,Creek OTSA,statistical,5238,Urban,0.3362,0.9999999999999997
+40137000400,Chickasaw OTSA,statistical,5221,Urban,0.6083,0.999999999999998
+40017301014,Cheyenne and Arapaho OTSA,statistical,5218,Urban,0.6748,1.0
+40109108802,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,5208,Urban,0.3388,1.0
+40123088600,Chickasaw OTSA,statistical,5205,Rural,0.5182,1.0
+40147000601,Cherokee OTSA,statistical,5173,Urban,0.7257,1.0
+40081961500,Sac and Fox OTSA,statistical,5172,Rural,0.6474,1.0
+40143009500,Creek OTSA,statistical,5140,Rural,0.3842,0.9999999999999993
+40097040200,Cherokee OTSA,statistical,5132,Urban,0.6686,0.9999999999999978
+40079040500,Choctaw OTSA,statistical,5108,Rural,0.7574,1.0
+40079040602,Choctaw OTSA,statistical,5096,Rural,0.8874,0.9999999999999977
+40125500901,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,5050,Rural,0.3837,0.9999999999999982
+40017300702,Cheyenne and Arapaho OTSA,statistical,5034,Rural,0.5574,0.9999999999999986
+40085094200,Chickasaw OTSA,statistical,5027,Rural,0.6355,1.0
+40135030202,Cherokee OTSA,statistical,5026,Rural,0.9204,1.0
+40147001100,Cherokee OTSA,statistical,5025,Urban,0.7567,0.9999999999999982
+40137001100,Chickasaw OTSA,statistical,5011,Rural,0.6157,0.999999999999999
+40137000800,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,5006,Rural,0.5098,0.9999999999999987
+40123089598,Chickasaw OTSA,statistical,5006,Rural,0.365,1.0
+40131050101,Cherokee OTSA,statistical,4998,Urban,0.9304,1.0
+40051000600,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,4985,Rural,0.6399,0.9999999999999976
+40143009401,Creek OTSA,statistical,4959,Urban,0.5681,1.0
+40031002302,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,4939,Rural,0.579,0.9999999999999998
+40071000202,Kaw/Ponca joint-use OTSA,statistical,4928,Urban,0.7802,0.9999999999999994
+40087400203,Chickasaw OTSA,statistical,4925,Rural,0.65,0.9999999999999999
+40119011400,Sac and Fox OTSA,statistical,4884,Rural,0.7407,1.0
+40051000802,Chickasaw OTSA,statistical,4876,Rural,0.3368,1.0
+40077087200,Choctaw OTSA,statistical,4876,Rural,0.877,0.9999999999999991
+40081961700,Sac and Fox OTSA,statistical,4875,Rural,0.564,0.9999999999999991
+40019892700,Chickasaw OTSA,statistical,4857,Rural,0.5746,1.0
+40143005404,Cherokee OTSA,statistical,4835,Urban,0.3201,0.9999999999999984
+40013796102,Choctaw OTSA,statistical,4827,Urban,0.6308,1.0
+40121486000,Choctaw OTSA,statistical,4826,Rural,0.5231,1.0
+40121486700,Choctaw OTSA,statistical,4817,Rural,0.8344,0.9999999999999999
+40095094700,Chickasaw OTSA,statistical,4787,Rural,0.9322,1.0
+40125501003,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,4776,Rural,0.5401,1.0
+40019892501,Chickasaw OTSA,statistical,4774,Rural,0.5943,1.0
+40123088801,Chickasaw OTSA,statistical,4728,Urban,0.6836,1.0
+40081961402,Kickapoo OTSA,statistical,4726,Rural,0.4196,1.0
+40109109003,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,4696,Rural,0.7789,1.0
+40143005811,Cherokee OTSA,statistical,4668,Urban,0.4363,1.0
+40049681400,Chickasaw OTSA,statistical,4658,Urban,0.8141,1.0
+40115574700,Cherokee OTSA,statistical,4654,Rural,0.6566,0.9999999999999993
+40001376700,Cherokee OTSA,statistical,4654,Rural,0.8576,1.0
+40081961100,Sac and Fox OTSA,statistical,4647,Rural,0.727,1.0
+40121486100,Choctaw OTSA,statistical,4637,Urban,0.9614,1.0
+40137000901,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,4619,Rural,0.5619,1.0
+40065968500,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,4613,Urban,0.273,0.9999999999999998
+40147000400,Cherokee OTSA,statistical,4599,Urban,0.7246,1.0
+40101000700,Creek OTSA,statistical,4599,Urban,0.9772,1.0
+40125500500,Kickapoo OTSA,statistical,4582,Urban,0.6985,1.0
+40145030512,Creek OTSA,statistical,4571,Urban,0.5346,0.9999999999999996
+40101000100,Creek OTSA,statistical,4565,Urban,0.9689,0.9999999999999993
+40071001200,Kaw OTSA,statistical,4559,Rural,0.725,0.9999999999999998
+40131050801,Cherokee OTSA,statistical,4531,Rural,0.4881,0.9999999999999973
+40013796003,Chickasaw OTSA,statistical,4525,Rural,0.3556,1.0
+40101001200,Creek OTSA,statistical,4504,Rural,0.668,0.9999999999999994
+40031002102,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,4489,Rural,0.4853,1.0
+40097040100,Cherokee OTSA,statistical,4486,Urban,0.9223,1.0
+40113940007,Osage Reservation,legal,4480,Rural,0.3786,0.9999999999999989
+40101000902,Creek OTSA,statistical,4476,Urban,0.9585,1.0
+40111000400,Creek OTSA,statistical,4456,Urban,0.8755,1.0
+40145030402,Creek OTSA,statistical,4445,Rural,0.52,0.9999999999999986
+40109108708,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,4431,Rural,0.3198,1.0
+40041376100,Cherokee OTSA,statistical,4429,Rural,0.845,1.0
+40143007704,Creek OTSA,statistical,4425,Urban,0.7792,0.9999999999999994
+40037021402,Creek OTSA,statistical,4413,Urban,0.807,0.9999999999999999
+40113940003,Osage Reservation,legal,4406,Rural,0.7409,1.0
+40013796200,Choctaw OTSA,statistical,4397,Urban,0.8356,0.9999999999999998
+40071000300,Kaw/Ponca joint-use OTSA,statistical,4395,Urban,0.4551,1.0
+40041375701,Cherokee OTSA,statistical,4394,Urban,0.4619,0.9999999999999988
+40073958100,Cheyenne and Arapaho OTSA,statistical,4390,Rural,0.7011,1.0
+40143007803,Creek OTSA,statistical,4388,Urban,0.3244,0.9999999999999993
+40125501104,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,4380,Rural,0.6513,1.0
+40135030105,Cherokee OTSA,statistical,4359,Rural,0.5033,0.9999999999999989
+40001377000,Cherokee OTSA,statistical,4357,Rural,0.6969,0.9999999999999996
+40021977802,Cherokee OTSA,statistical,4353,Rural,0.7701,1.0
+40017300202,Cheyenne and Arapaho OTSA,statistical,4347,Rural,0.769,0.9999999999999999
+40145030101,Creek OTSA,statistical,4346,Urban,0.7316,0.9999999999999987
+40115574600,Peoria OTSA,statistical,4327,Urban,0.7668,0.9999999999999992
+40027202404,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,4307,Rural,0.3367,0.9999999999999994
+40001376900,Cherokee OTSA,statistical,4305,Rural,0.9836,1.0
+40111000902,Creek OTSA,statistical,4300,Urban,0.9299,1.0
+40125500800,Sac and Fox OTSA,statistical,4279,Urban,0.5963,1.0
+40021978000,Cherokee OTSA,statistical,4273,Urban,0.9204,0.9999999999999991
+40143009015,Creek OTSA,statistical,4268,Urban,0.24,0.9999999999999994
+40133583400,Seminole OTSA,statistical,4266,Urban,0.885,1.0
+40081961300,Kickapoo OTSA,statistical,4263,Rural,0.5432,1.0
+40005587900,Choctaw OTSA,statistical,4256,Rural,0.8222,1.0
+40123089000,Chickasaw OTSA,statistical,4255,Rural,0.6366,0.9999999999999998
+40117957200,Pawnee OTSA,statistical,4223,Rural,0.4791,1.0
+40131050405,Cherokee OTSA,statistical,4221,Rural,0.0635,1.0
+40083600600,Iowa OTSA,statistical,4215,Rural,0.7514,0.5287994882629051
+40097040300,Cherokee OTSA,statistical,4180,Rural,0.6209,0.9999999999999976
+40105172400,Cherokee OTSA,statistical,4173,Rural,0.8807,0.9999999999999973
+40143005808,Cherokee OTSA,statistical,4154,Rural,0.2926,0.9999999999999997
+40143005403,Cherokee OTSA,statistical,4143,Urban,0.8635,1.0
+40019893001,Chickasaw OTSA,statistical,4133,Urban,0.7789,1.0
+40005587700,Choctaw OTSA,statistical,4133,Rural,0.9265,1.0
+40121485800,Choctaw OTSA,statistical,4125,Rural,0.6906,1.0
+40143005801,Cherokee OTSA,statistical,4114,Urban,0.6079,1.0
+40061279200,Choctaw OTSA,statistical,4097,Rural,0.9357,0.9999999999999978
+40111000602,Creek OTSA,statistical,4086,Rural,0.7359,1.0
+40031002101,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,4082,Rural,0.2938,0.9999999999999992
+40145030407,Creek OTSA,statistical,4080,Urban,0.1345,1.0
+40135030101,Cherokee OTSA,statistical,4077,Rural,0.7543,1.0
+40087400105,Chickasaw OTSA,statistical,4063,Rural,0.2663,0.9999999999999998
+40125501004,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,4060,Rural,0.6594,1.0
+40123089300,Chickasaw OTSA,statistical,4031,Urban,0.7604,0.9999999999999993
+40145030102,Creek OTSA,statistical,4020,Urban,0.8093,0.9999999999999999
+40051000905,Chickasaw OTSA,statistical,3996,Rural,0.0489,1.0
+40131050604,Cherokee OTSA,statistical,3996,Rural,0.5332,0.999999999999999
+40071001302,Kaw OTSA,statistical,3987,Urban,0.5938,0.6047444620041481
+40113940015,Osage Reservation,legal,3983,Urban,0.5381,0.9999999999999991
+40005587800,Choctaw OTSA,statistical,3981,Rural,0.6044,1.0
+40071000500,Kaw/Ponca joint-use OTSA,statistical,3974,Urban,0.8665,1.0
+40031002202,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,3969,Rural,0.2064,1.0
+40115574800,Cherokee OTSA,statistical,3953,Rural,0.8396,1.0
+40101001401,Cherokee OTSA,statistical,3938,Rural,0.7029,1.0
+40089098400,Choctaw OTSA,statistical,3935,Rural,0.8,0.9999999999999978
+40131050601,Cherokee OTSA,statistical,3934,Urban,0.5825,0.9999999999999989
+40089098700,Choctaw OTSA,statistical,3921,Urban,0.9807,1.0
+40113940014,Osage Reservation,legal,3914,Urban,0.642,0.9999999999999998
+40051001000,Chickasaw OTSA,statistical,3902,Urban,0.9099,0.9999999999999993
+40051000904,Chickasaw OTSA,statistical,3898,Rural,0.2474,1.0
+40031002004,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,3894,Urban,0.4666,1.0
+40081961200,Iowa OTSA,statistical,3889,Rural,0.5818,1.0
+40039960401,Cheyenne and Arapaho OTSA,statistical,3885,Rural,0.597,0.9999999999999999
+40109108713,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,3882,Rural,0.4086,0.9999999999999993
+40137000200,Chickasaw OTSA,statistical,3866,Urban,0.6978,1.0
+40087400201,Chickasaw OTSA,statistical,3861,Rural,0.5021,1.0
+40115574100,Quapaw OTSA,statistical,3855,Rural,0.7494,0.9999999999999958
+40041375702,Cherokee OTSA,statistical,3852,Urban,0.904,0.9999999999999986
+40001376800,Cherokee OTSA,statistical,3848,Rural,0.6965,1.0
+40133583600,Creek/Seminole joint-use OTSA,statistical,3832,Rural,0.9065,1.0
+40037021202,Creek OTSA,statistical,3829,Rural,0.5747,0.9999999999999992
+40075963700,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,3828,Rural,0.8411,0.9999999999999959
+40101001600,Creek OTSA,statistical,3823,Rural,0.6675,1.0
+40143009300,Creek OTSA,statistical,3821,Urban,0.7752,0.999999999999998
+40097040502,Cherokee OTSA,statistical,3814,Rural,0.7869,1.0
+40099790701,Chickasaw OTSA,statistical,3791,Rural,0.8296,0.9999999999999973
+40119011104,Iowa OTSA,statistical,3789,Rural,0.8035,0.5106754570421747
+40097040600,Cherokee OTSA,statistical,3783,Rural,0.7358,1.0
+40071001100,Tonkawa OTSA,statistical,3781,Rural,0.8195,1.0
+40149964900,Cheyenne and Arapaho OTSA,statistical,3776,Rural,0.683,1.0
+40119011302,Sac and Fox OTSA,statistical,3771,Urban,0.624,1.0
+40017300804,Cheyenne and Arapaho OTSA,statistical,3769,Urban,0.1479,0.5023226436786078
+40017301201,Cheyenne and Arapaho OTSA,statistical,3766,Urban,0.438,0.9999999999999997
+40065968600,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,3761,Urban,0.8948,1.0
+40063484800,Creek OTSA,statistical,3759,Rural,0.8695,1.0
+40035373300,Cherokee OTSA,statistical,3733,Urban,0.9716,1.0
+40023967100,Choctaw OTSA,statistical,3726,Urban,0.966,1.0
+40079040402,Choctaw OTSA,statistical,3722,Urban,0.935,0.9999999999999976
+40117957100,Pawnee OTSA,statistical,3715,Rural,0.7607,0.9999999999999987
+40109108900,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,3712,Rural,0.8047,0.4532126481482898
+40071000600,Ponca OTSA,statistical,3703,Rural,0.5728,1.0
+40037021000,Creek OTSA,statistical,3681,Rural,0.9024,1.0
+40101000600,Creek OTSA,statistical,3674,Urban,0.8637,1.0
+40143005810,Cherokee OTSA,statistical,3660,Urban,0.4142,0.9999999999999999
+40099790801,Chickasaw OTSA,statistical,3656,Urban,0.717,1.0
+40125500700,Sac and Fox OTSA,statistical,3645,Urban,0.6646,0.9999999999999988
+40131050406,Cherokee OTSA,statistical,3645,Urban,0.0025,1.0
+40109109004,Kickapoo OTSA,statistical,3642,Rural,0.4034,0.9952242394542506
+40131050602,Cherokee OTSA,statistical,3638,Urban,0.2427,1.0
+40145030800,Creek OTSA,statistical,3631,Rural,0.2436,0.9999999999999987
+40135030401,Cherokee OTSA,statistical,3630,Rural,0.6579,0.9999999999999991
+40111000500,Creek OTSA,statistical,3624,Rural,0.3287,1.0
+40017301010,Cheyenne and Arapaho OTSA,statistical,3624,Urban,0.184,0.668165107835859
+40123088900,Chickasaw OTSA,statistical,3620,Urban,0.795,0.9999999999999991
+40019892602,Chickasaw OTSA,statistical,3619,Urban,0.7112,1.0
+40089098501,Choctaw OTSA,statistical,3610,Rural,0.624,0.9999999999999978
+40051000502,Chickasaw OTSA,statistical,3607,Urban,0.8346,0.9999999999999984
+40017300802,Cheyenne and Arapaho OTSA,statistical,3606,Urban,0.2456,0.6279381539292807
+40037021102,Creek OTSA,statistical,3603,Rural,0.4419,0.9999999999999983
+40121486200,Choctaw OTSA,statistical,3594,Urban,0.9527,1.0
+40109108805,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,3590,Urban,0.6325,0.9999999999999997
+40037020702,Creek OTSA,statistical,3582,Rural,0.2682,0.9999999999999977
+40071001301,Tonkawa OTSA,statistical,3575,Urban,0.9042,0.260015256131117
+40143009403,Creek OTSA,statistical,3566,Urban,0.3683,0.9999999999999999
+40029388100,Choctaw OTSA,statistical,3564,Rural,0.8891,0.9999999999999994
+40021977902,Cherokee OTSA,statistical,3564,Urban,0.9095,1.0
+40143005500,Cherokee OTSA,statistical,3564,Rural,0.4237,0.9999999999999998
+40111000700,Creek OTSA,statistical,3558,Rural,0.6384,0.9999999999999982
+40033871100,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,3545,Rural,0.5676,1.0
+40079040299,Choctaw OTSA,statistical,3533,Rural,0.8586,1.0
+40101001501,Cherokee OTSA,statistical,3531,Rural,0.866,1.0
+40143009200,Creek OTSA,statistical,3530,Urban,0.7617,0.9999999999999984
+40013795700,Choctaw OTSA,statistical,3527,Rural,0.7051,1.0
+40113940009,Osage Reservation,legal,3521,Rural,0.1724,0.9999999999999957
+40143005401,Cherokee OTSA,statistical,3520,Rural,0.2452,0.9999999999999999
+40051000906,Chickasaw OTSA,statistical,3514,Rural,0.3746,0.9999999999999998
+40109108709,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,3510,Rural,0.2618,1.0
+40147000800,Cherokee OTSA,statistical,3494,Urban,0.682,1.0
+40101000901,Creek OTSA,statistical,3488,Urban,0.523,0.9999999999999998
+40079040302,Choctaw OTSA,statistical,3482,Rural,0.5365,1.0
+40135030303,Cherokee OTSA,statistical,3474,Urban,0.9658,1.0
+40079040303,Choctaw OTSA,statistical,3471,Rural,0.5881,0.9999999999999994
+40107080900,Creek OTSA,statistical,3449,Rural,0.8906,0.9999999999999987
+40021977702,Cherokee OTSA,statistical,3448,Rural,0.9294,1.0
+40129960000,Cheyenne and Arapaho OTSA,statistical,3442,Rural,0.5374,1.0
+40143005812,Cherokee OTSA,statistical,3439,Urban,0.1815,1.0
+40119011301,Sac and Fox OTSA,statistical,3438,Rural,0.5417,0.9999999999999998
+40065968800,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,3436,Urban,0.8612,1.0
+40125500301,Sac and Fox OTSA,statistical,3424,Urban,0.7636,0.9999999999999998
+40143007707,Creek OTSA,statistical,3420,Urban,0.5046,0.9999999999999994
+40037020602,Creek OTSA,statistical,3417,Urban,0.5232,0.9999999999999994
+40115574900,Seneca-Cayuga OTSA,statistical,3416,Rural,0.7128,1.0
+40051000501,Chickasaw OTSA,statistical,3414,Urban,0.588,1.0
+40037020603,Creek OTSA,statistical,3412,Urban,0.5927,1.0
+40149965100,Cheyenne and Arapaho OTSA,statistical,3409,Rural,0.5455,1.0
+40069660201,Chickasaw OTSA,statistical,3408,Rural,0.9581,0.9999999999999989
+40039960402,Cheyenne and Arapaho OTSA,statistical,3406,Urban,0.4767,1.0
+40125500600,Sac and Fox OTSA,statistical,3400,Urban,0.5812,1.0
+40131050502,Creek OTSA,statistical,3391,Rural,0.8122,0.9999999999999984
+40039950800,Cheyenne and Arapaho OTSA,statistical,3390,Urban,0.925,0.9999999999999992
+40049681200,Chickasaw OTSA,statistical,3389,Rural,0.454,1.0
+40125500400,Sac and Fox OTSA,statistical,3386,Urban,0.6168,0.9999999999999993
+40017300600,Cheyenne and Arapaho OTSA,statistical,3385,Urban,0.5489,0.9999999999999991
+40125501006,Kickapoo OTSA,statistical,3375,Rural,0.3826,0.9999999999999987
+40135030403,Cherokee OTSA,statistical,3374,Rural,0.6795,0.9999999999999998
+40055967200,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,3372,Rural,0.7838,0.9999999999999974
+40051000701,Chickasaw OTSA,statistical,3370,Rural,0.4479,1.0
+40095094698,Chickasaw OTSA,statistical,3365,Rural,0.78,1.0
+40021977901,Cherokee OTSA,statistical,3356,Urban,0.6337,0.999999999999998
+40015162102,Kiowa-Comanche-Apache-Ft Sill Apache/Caddo-Wichita-Delaware joint-use OTSA,statistical,3337,Urban,0.9727,0.9999999999999993
+40061279300,Choctaw OTSA,statistical,3335,Rural,0.6502,1.0
+40079040601,Choctaw OTSA,statistical,3333,Rural,0.9315,1.0
+40041375601,Cherokee OTSA,statistical,3331,Rural,0.7646,1.0
+40137000902,Chickasaw OTSA,statistical,3328,Rural,0.4916,1.0
+40101001302,Cherokee OTSA,statistical,3324,Rural,0.3823,0.9999999999999994
+40143007655,Creek OTSA,statistical,3321,Urban,0.6077,1.0
+40097040700,Cherokee OTSA,statistical,3313,Rural,0.7796,0.9999999999999991
+40017300803,Cheyenne and Arapaho OTSA,statistical,3313,Rural,0.0015,1.0
+40131050304,Cherokee OTSA,statistical,3305,Rural,0.3481,1.0
+40051000801,Chickasaw OTSA,statistical,3298,Rural,0.1733,1.0
+40027202406,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,3294,Rural,0.3913,0.9999999999999999
+40097040801,Cherokee OTSA,statistical,3294,Rural,0.3881,1.0
+40017300300,Cheyenne and Arapaho OTSA,statistical,3286,Urban,0.8356,1.0
+40075964200,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,3279,Rural,0.7423,1.0
+40109108711,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,3275,Urban,0.2019,0.9999999999999992
+40039961000,Cheyenne and Arapaho OTSA,statistical,3270,Rural,0.6702,1.0
+40131050501,Cherokee OTSA,statistical,3258,Rural,0.2687,1.0
+40123088802,Chickasaw OTSA,statistical,3251,Rural,0.7112,0.9999999999999988
+40091779700,Creek OTSA,statistical,3249,Rural,0.908,0.9999999999999994
+40135030304,Cherokee OTSA,statistical,3232,Urban,0.6774,1.0
+40037020604,Creek OTSA,statistical,3218,Rural,0.2982,0.999999999999998
+40143007706,Creek OTSA,statistical,3212,Urban,0.0943,0.9999999999999998
+40027202407,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,3207,Rural,0.7876,1.0
+40051000702,Chickasaw OTSA,statistical,3206,Rural,0.4744,0.9999999999999976
+40133583200,Seminole OTSA,statistical,3198,Rural,0.4894,1.0
+40143007801,Creek OTSA,statistical,3187,Urban,0.8485,0.9999999999999996
+40091780200,Creek OTSA,statistical,3182,Rural,0.8345,1.0
+40019892400,Chickasaw OTSA,statistical,3176,Rural,0.6568,1.0
+40145030603,Creek OTSA,statistical,3172,Urban,0.7209,1.0
+40131050802,Cherokee OTSA,statistical,3137,Rural,0.405,1.0
+40147000602,Cherokee OTSA,statistical,3137,Urban,0.0939,0.9999999999999991
+40101001402,Cherokee OTSA,statistical,3127,Rural,0.5036,0.9999999999999993
+40019893002,Chickasaw OTSA,statistical,3126,Urban,0.7395,1.0
+40107080700,Creek OTSA,statistical,3125,Rural,0.765,1.0
+40051000400,Chickasaw OTSA,statistical,3123,Urban,0.7615,1.0
+40137000102,Chickasaw OTSA,statistical,3121,Urban,0.6994,1.0
+40021978301,Cherokee OTSA,statistical,3116,Rural,0.7759,0.9999999999999977
+40041375602,Seneca-Cayuga OTSA,statistical,3108,Rural,0.6053,0.9999999999999993
+40085094100,Chickasaw OTSA,statistical,3096,Rural,0.9578,1.0
+40131050303,Cherokee OTSA,statistical,3084,Rural,0.283,1.0
+40145030202,Cherokee OTSA,statistical,3080,Rural,0.7429,1.0
+40039960702,Cheyenne and Arapaho OTSA,statistical,3075,Rural,0.3247,1.0
+40117957300,Pawnee OTSA,statistical,3066,Rural,0.5334,1.0
+40145030798,Creek OTSA,statistical,3059,Rural,0.6591,1.0
+40037020800,Creek OTSA,statistical,3057,Rural,0.729,1.0
+40049681100,Chickasaw OTSA,statistical,3050,Rural,0.6396,0.9999999999999992
+40071000201,Kaw/Ponca joint-use OTSA,statistical,3030,Urban,0.6976,0.9999999999999998
+40011958900,Cheyenne and Arapaho OTSA,statistical,3030,Rural,0.8286,1.0
+40111000601,Creek OTSA,statistical,3015,Rural,0.589,0.9999999999999998
+40121486600,Choctaw OTSA,statistical,3012,Rural,0.513,0.9999999999999994
+40131050702,Cherokee OTSA,statistical,3010,Rural,0.7487,0.9999999999999994
+40049681900,Chickasaw OTSA,statistical,3008,Rural,0.4589,0.9999999999999986
+40081961401,Sac and Fox OTSA,statistical,3002,Rural,0.6426,1.0
+40015162101,Caddo-Wichita-Delaware OTSA,statistical,3000,Urban,0.7265,0.9999999999999994
+40037020900,Creek OTSA,statistical,2998,Rural,0.6801,0.9999999999999984
+40125500200,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,2993,Urban,0.9773,0.9999999999999994
+40035373100,Cherokee OTSA,statistical,2989,Rural,0.7305,0.9999999999999983
+40137000600,Chickasaw OTSA,statistical,2987,Urban,0.959,0.9999999999999991
+40109108804,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,2981,Rural,0.4456,0.9999999999999996
+40101001301,Cherokee OTSA,statistical,2974,Urban,0.8048,0.9999999999999972
+40135030404,Cherokee OTSA,statistical,2974,Rural,0.4638,0.9999999999999998
+40131050202,Cherokee OTSA,statistical,2972,Urban,0.7233,1.0
+40103956600,Otoe-Missouria OTSA,statistical,2970,Rural,0.7149,0.7234380149985411
+40049681800,Chickasaw OTSA,statistical,2968,Rural,0.7059,0.9999999999999999
+40145030511,Creek OTSA,statistical,2962,Urban,0.1329,0.9999999999999993
+40017300500,Cheyenne and Arapaho OTSA,statistical,2958,Urban,0.8129,1.0
+40103957100,Otoe-Missouria OTSA,statistical,2955,Rural,0.5228,0.07192120030316215
+40023967000,Choctaw OTSA,statistical,2952,Rural,0.5138,1.0
+40021978302,Cherokee OTSA,statistical,2951,Rural,0.8794,1.0
+40037021101,Creek OTSA,statistical,2949,Rural,0.5308,1.0
+40143005813,Cherokee OTSA,statistical,2946,Urban,0.3469,1.0
+40037020103,Creek OTSA,statistical,2940,Urban,0.2446,0.9999999999999998
+40101000300,Creek OTSA,statistical,2935,Urban,0.9655,0.9999999999999993
+40031002201,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,2935,Rural,0.3383,0.9999999999999983
+40111000901,Creek OTSA,statistical,2919,Urban,0.8563,0.9999999999999996
+40145030510,Creek OTSA,statistical,2913,Urban,0.178,1.0
+40109109202,Iowa OTSA,statistical,2908,Rural,0.1772,0.6265260898939594
+40069660198,Chickasaw OTSA,statistical,2906,Rural,0.6261,0.9999999999999974
+40131050408,Cherokee OTSA,statistical,2902,Urban,0.6554,0.9999999999999996
+40127097702,Choctaw OTSA,statistical,2900,Rural,0.711,0.9999999999999988
+40097040501,Cherokee OTSA,statistical,2899,Rural,0.564,0.9999999999999994
+40081961600,Sac and Fox OTSA,statistical,2884,Rural,0.4234,1.0
+40143007703,Creek OTSA,statistical,2872,Rural,0.157,1.0
+40023967300,Choctaw OTSA,statistical,2870,Rural,0.733,1.0
+40113940008,Osage Reservation,legal,2858,Rural,0.5972,1.0
+40021977701,Cherokee OTSA,statistical,2854,Rural,0.5171,1.0
+40037020705,Creek OTSA,statistical,2846,Rural,0.4062,1.0
+40041375901,Cherokee OTSA,statistical,2835,Rural,0.6589,1.0
+40017301301,Cheyenne and Arapaho OTSA,statistical,2830,Rural,0.108,0.7496387729762264
+40019892601,Chickasaw OTSA,statistical,2824,Urban,0.7782,1.0
+40021978202,Cherokee OTSA,statistical,2822,Rural,0.5349,1.0
+40111000800,Creek OTSA,statistical,2809,Rural,0.7075,1.0
+40115574300,Miami/Peoria joint-use OTSA,statistical,2806,Urban,0.8931,1.0
+40091779900,Creek OTSA,statistical,2803,Rural,0.7273,0.9999999999999991
+40049681300,Chickasaw OTSA,statistical,2802,Urban,0.7049,0.9999999999999977
+40015162000,Caddo-Wichita-Delaware OTSA,statistical,2801,Rural,0.5196,1.0
+40079040700,Choctaw OTSA,statistical,2794,Rural,0.8284,1.0
+40097040802,Cherokee OTSA,statistical,2794,Rural,0.653,1.0
+40101001100,Creek OTSA,statistical,2776,Rural,0.594,1.0
+40143007533,Creek OTSA,statistical,2772,Urban,0.0614,1.0
+40073958400,Cheyenne and Arapaho OTSA,statistical,2771,Rural,0.2745,0.9999999999999984
+40115574200,Quapaw OTSA,statistical,2766,Urban,0.957,0.9999999999999983
+40091779602,Cherokee OTSA,statistical,2766,Rural,0.4226,0.9999999999999993
+40019893100,Chickasaw OTSA,statistical,2763,Urban,0.8894,1.0
+40017301409,Cheyenne and Arapaho OTSA,statistical,2763,Urban,0.4698,0.9999999999999998
+40107080600,Creek OTSA,statistical,2755,Rural,0.5706,0.9999999999999973
+40111000300,Creek OTSA,statistical,2738,Urban,0.9102,1.0
+40145030604,Creek OTSA,statistical,2730,Urban,0.7063,1.0
+40145030201,Cherokee OTSA,statistical,2724,Rural,0.5386,0.9999999999999996
+40125501300,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,2716,Rural,0.657,0.9999999999999978
+40099790802,Chickasaw OTSA,statistical,2715,Rural,0.5796,0.9999999999999994
+40127097701,Choctaw OTSA,statistical,2714,Rural,0.9198,0.9999999999999994
+40019892100,Chickasaw OTSA,statistical,2712,Rural,0.5935,1.0
+40143007804,Creek OTSA,statistical,2704,Rural,0.1714,0.9999999999999989
+40021978201,Cherokee OTSA,statistical,2702,Rural,0.7828,0.9999999999999988
+40125500302,Sac and Fox OTSA,statistical,2696,Urban,0.6083,1.0
+40035373400,Cherokee OTSA,statistical,2695,Urban,0.8982,0.9999999999999998
+40037021600,Creek OTSA,statistical,2674,Urban,0.7041,1.0
+40145030408,Creek OTSA,statistical,2663,Urban,0.4716,1.0
+40111000200,Creek OTSA,statistical,2655,Urban,0.8419,0.9999999999999978
+40131050302,Cherokee OTSA,statistical,2634,Rural,0.56,0.9999999999999982
+40133583800,Seminole OTSA,statistical,2632,Rural,0.847,1.0
+40127097600,Choctaw OTSA,statistical,2627,Rural,0.7431,0.9999999999999978
+40015161800,Caddo-Wichita-Delaware OTSA,statistical,2626,Rural,0.8889,0.9999999999999972
+40131050201,Cherokee OTSA,statistical,2614,Urban,0.4491,1.0
+40143007705,Creek OTSA,statistical,2579,Urban,0.2214,1.0
+40127097800,Choctaw OTSA,statistical,2571,Rural,0.7328,0.9999999999999987
+40013796400,Choctaw OTSA,statistical,2550,Urban,0.9277,1.0
+40111000100,Creek OTSA,statistical,2546,Urban,0.8912,1.0
+40027202600,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,2541,Urban,0.8425,0.9999999999999991
+40023966900,Choctaw OTSA,statistical,2541,Rural,0.6236,1.0
+40013796500,Choctaw OTSA,statistical,2539,Rural,0.7461,0.9999999999999991
+40125500902,Sac and Fox OTSA,statistical,2538,Rural,0.5904,0.9999999999999961
+40077087300,Choctaw OTSA,statistical,2512,Rural,0.788,1.0
+40063484900,Creek OTSA,statistical,2511,Urban,0.8313,0.9999999999999991
+40015162300,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,2509,Rural,0.613,0.9999999999999986
+40131050301,Cherokee OTSA,statistical,2501,Rural,0.6248,1.0
+40143009101,Cherokee OTSA,statistical,2495,Urban,0.9912,1.0
+40035373200,Cherokee OTSA,statistical,2490,Rural,0.4441,1.0
+40143006713,Creek OTSA,statistical,2488,Urban,0.3771,1.0
+40131050103,Cherokee OTSA,statistical,2482,Urban,0.7822,0.9999999999999997
+40143005600,Cherokee OTSA,statistical,2479,Rural,0.5844,0.9999999999999994
+40013795600,Choctaw OTSA,statistical,2479,Rural,0.5964,0.9999999999999993
+40115574400,Miami/Peoria joint-use OTSA,statistical,2475,Urban,0.8697,1.0
+40121486400,Choctaw OTSA,statistical,2473,Urban,0.988,1.0
+40021977801,Cherokee OTSA,statistical,2472,Rural,0.6886,0.9999999999999993
+40063484600,Creek OTSA,statistical,2469,Rural,0.8719,0.9999999999999994
+40133583300,Seminole OTSA,statistical,2466,Urban,0.9314,1.0
+40143009404,Creek OTSA,statistical,2464,Urban,0.6625,1.0
+40067371800,Chickasaw OTSA,statistical,2463,Rural,0.7998,1.0
+40017301202,Cheyenne and Arapaho OTSA,statistical,2460,Urban,0.1891,1.0
+40131050603,Cherokee OTSA,statistical,2450,Rural,0.078,1.0
+40065968100,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,2449,Rural,0.391,1.0
+40143009104,Cherokee OTSA,statistical,2440,Urban,0.8246,1.0
+40017300902,Cheyenne and Arapaho OTSA,statistical,2423,Urban,0.0785,1.0
+40017300100,Cheyenne and Arapaho OTSA,statistical,2422,Rural,0.5585,0.9999999999999996
+40143006506,Creek OTSA,statistical,2391,Urban,0.1832,1.0
+40147000300,Cherokee OTSA,statistical,2391,Urban,0.8471,0.9999999999999993
+40109108712,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,2388,Rural,0.0629,0.9999999999999994
+40117957400,Pawnee OTSA,statistical,2380,Rural,0.4156,1.0
+40019892801,Chickasaw OTSA,statistical,2376,Urban,0.8838,0.9999999999999998
+40113940004,Osage Reservation,legal,2356,Rural,0.4841,1.0
+40089098200,Choctaw OTSA,statistical,2349,Rural,0.5007,0.999999999999999
+40123088700,Chickasaw OTSA,statistical,2349,Rural,0.613,0.999999999999999
+40051000901,Chickasaw OTSA,statistical,2348,Rural,0.5419,1.0
+40131050407,Cherokee OTSA,statistical,2338,Urban,0.3152,1.0
+40063485000,Choctaw OTSA,statistical,2337,Rural,0.4342,0.9999999999999974
+40001376600,Cherokee OTSA,statistical,2331,Rural,0.883,1.0
+40069660300,Chickasaw OTSA,statistical,2327,Rural,0.6436,0.9999999999999979
+40135030106,Cherokee OTSA,statistical,2322,Rural,0.4794,0.9999999999999991
+40089098900,Choctaw OTSA,statistical,2309,Rural,0.834,1.0
+40123089100,Chickasaw OTSA,statistical,2308,Urban,0.8843,1.0
+40101000802,Creek OTSA,statistical,2296,Urban,0.7646,1.0
+40049681500,Chickasaw OTSA,statistical,2294,Rural,0.8324,1.0
+40037020707,Creek OTSA,statistical,2291,Rural,0.6256,1.0
+40063484700,Creek OTSA,statistical,2291,Rural,0.3966,1.0
+40147001200,Cherokee OTSA,statistical,2286,Rural,0.1926,0.9999999999999992
+40135030201,Cherokee OTSA,statistical,2277,Rural,0.7175,1.0
+40037021300,Creek OTSA,statistical,2274,Urban,0.8043,1.0
+40019892802,Chickasaw OTSA,statistical,2272,Urban,0.9795,1.0
+40061279400,Choctaw OTSA,statistical,2258,Rural,0.6543,0.9999999999999959
+40141070300,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,2253,Rural,0.7008,1.0
+40143005700,Cherokee OTSA,statistical,2229,Urban,0.9135,1.0
+40121485700,Choctaw OTSA,statistical,2224,Rural,0.8055,1.0
+40121485900,Choctaw OTSA,statistical,2215,Rural,0.4822,1.0
+40015162200,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,2201,Rural,0.6834,1.0
+40035373500,Cherokee OTSA,statistical,2200,Rural,0.6734,0.9999999999999968
+40113940013,Osage Reservation,legal,2195,Rural,0.4687,0.9999999999999988
+40101001502,Cherokee OTSA,statistical,2189,Rural,0.7735,1.0
+40095094803,Chickasaw OTSA,statistical,2182,Rural,0.3749,1.0
+40117957500,Pawnee OTSA,statistical,2169,Rural,0.8352,0.9999999999999988
+40019892900,Chickasaw OTSA,statistical,2164,Urban,0.8285,0.9999999999999997
+40015161602,Caddo-Wichita-Delaware OTSA,statistical,2162,Rural,0.64,1.0
+40145030508,Creek OTSA,statistical,2161,Urban,0.2029,0.9999999999999993
+40131050104,Cherokee OTSA,statistical,2148,Urban,0.9139,0.9999999999999997
+40031002403,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,2142,Urban,,0.9999999999999999
+40109109001,Kickapoo OTSA,statistical,2138,Rural,0.5545,1.0
+40137000300,Chickasaw OTSA,statistical,2137,Urban,0.8592,0.9999999999999999
+40037021401,Creek OTSA,statistical,2120,Urban,0.0755,0.9999999999999996
+40055967100,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,2119,Rural,0.6504,0.9999999999999994
+40023967200,Choctaw OTSA,statistical,2115,Urban,0.9653,1.0
+40073958200,Cheyenne and Arapaho OTSA,statistical,2109,Rural,0.4535,0.9999999999999976
+40131050701,Cherokee OTSA,statistical,2107,Rural,0.8456,1.0
+40135030301,Cherokee OTSA,statistical,2099,Urban,0.8624,0.9999999999999994
+40147001000,Cherokee OTSA,statistical,2096,Rural,0.3732,0.9999999999999998
+40147000900,Cherokee OTSA,statistical,2081,Urban,0.9011,1.0
+40077087100,Choctaw OTSA,statistical,2056,Rural,0.6578,1.0
+40031002003,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,2055,Rural,0.2472,0.9999999999999998
+40017301408,Cheyenne and Arapaho OTSA,statistical,2055,Rural,0.2463,0.6738140556192446
+40091780100,Creek OTSA,statistical,2048,Rural,0.6161,0.9999999999999978
+40143008800,Creek OTSA,statistical,2045,Urban,0.8987,0.9999999999999994
+40099790600,Chickasaw OTSA,statistical,2041,Rural,0.3598,1.0
+40115574500,Ottawa OTSA,statistical,2033,Urban,0.955,1.0
+40041375805,Cherokee OTSA,statistical,2032,Rural,0.4602,1.0
+40085094300,Chickasaw OTSA,statistical,2023,Rural,0.6346,1.0
+40145030506,Creek OTSA,statistical,2019,Urban,0.7361,0.9999999999999991
+40113940012,Osage Reservation,legal,2014,Rural,0.8074,0.999999999999999
+40133583700,Seminole OTSA,statistical,2008,Rural,0.6584,0.9999999999999949
+40041375803,Cherokee OTSA,statistical,1996,Rural,0.495,1.0
+40125501105,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,1994,Rural,0.5591,0.9999999999999993
+40095094805,Chickasaw OTSA,statistical,1990,Rural,0.7272,1.0
+40149965000,Cheyenne and Arapaho OTSA,statistical,1989,Rural,0.5168,1.0
+40091780302,Creek OTSA,statistical,1989,Rural,0.597,0.9999999999999996
+40033871200,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,1982,Rural,0.5986,0.9999999999999999
+40107081000,Creek OTSA,statistical,1981,Rural,0.8611,1.0
+40137001000,Chickasaw OTSA,statistical,1979,Rural,0.4944,0.9999999999999988
+40143008001,Cherokee OTSA,statistical,1975,Urban,0.9971,1.0
+40071000400,Kaw/Ponca joint-use OTSA,statistical,1967,Urban,0.9154,1.0
+40133583500,Seminole OTSA,statistical,1938,Urban,0.9192,0.9999999999999986
+40089098502,Choctaw OTSA,statistical,1924,Rural,0.5602,1.0
+40105172100,Cherokee OTSA,statistical,1921,Rural,0.5415,1.0
+40145030403,Creek OTSA,statistical,1913,Urban,0.8362,0.9999999999999996
+40123089600,Chickasaw OTSA,statistical,1907,Rural,0.6498,0.9999999999999991
+40121486800,Choctaw OTSA,statistical,1905,Rural,0.6574,0.9999999999999992
+40037021201,Creek OTSA,statistical,1899,Rural,0.314,1.0
+40131050409,Cherokee OTSA,statistical,1887,Rural,0.6097,1.0
+40061279100,Choctaw OTSA,statistical,1871,Rural,0.7144,1.0
+40147000200,Cherokee OTSA,statistical,1857,Urban,0.9223,1.0
+40017300701,Cheyenne and Arapaho OTSA,statistical,1848,Urban,0.5866,1.0
+40049681600,Chickasaw OTSA,statistical,1839,Rural,0.4248,0.9999999999999966
+40013796300,Choctaw OTSA,statistical,1836,Urban,0.8945,1.0
+40147000100,Cherokee OTSA,statistical,1831,Urban,0.5942,1.0
+40105172300,Cherokee OTSA,statistical,1810,Rural,0.4639,1.0
+40043959100,Cheyenne and Arapaho OTSA,statistical,1795,Rural,0.5234,0.9999999999999966
+40095094806,Chickasaw OTSA,statistical,1794,Rural,0.3562,0.9999999999999992
+40109108806,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,1787,Urban,0.0961,0.9999999999999998
+40005587600,Choctaw OTSA,statistical,1773,Rural,0.7411,0.9999999999999983
+40149965400,Cheyenne and Arapaho OTSA,statistical,1750,Rural,0.5203,0.9999999999999993
+40145030505,Creek OTSA,statistical,1746,Urban,0.2616,0.9999999999999998
+40029388200,Choctaw OTSA,statistical,1702,Rural,0.6554,0.9999999999999991
+40099790702,Chickasaw OTSA,statistical,1701,Rural,0.3733,1.0
+40143006507,Creek OTSA,statistical,1698,Rural,0.2587,1.0
+40145030605,Creek OTSA,statistical,1698,Urban,0.5321,0.9999999999999994
+40013796004,Chickasaw OTSA,statistical,1684,Rural,0.6059,0.9999999999999988
+40011959000,Cheyenne and Arapaho OTSA,statistical,1682,Rural,0.7097,0.9999999999999991
+40125501201,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,1681,Rural,0.5247,0.999999999999999
+40049681700,Chickasaw OTSA,statistical,1648,Rural,0.4192,0.9999999999999979
+40091779601,Creek OTSA,statistical,1646,Rural,0.5292,1.0
+40145030300,Creek OTSA,statistical,1634,Rural,0.7323,1.0
+40069660202,Chickasaw OTSA,statistical,1631,Rural,0.4171,1.0
+40015161700,Caddo-Wichita-Delaware OTSA,statistical,1625,Rural,0.5749,1.0
+40133583900,Seminole OTSA,statistical,1622,Rural,0.75,1.0
+40101001000,Creek OTSA,statistical,1610,Urban,0.8796,0.9999999999999993
+40013795900,Chickasaw OTSA,statistical,1607,Rural,0.5544,0.9999999999999984
+40101000400,Creek OTSA,statistical,1604,Urban,0.9907,0.999999999999999
+40133583100,Seminole OTSA,statistical,1594,Rural,0.6163,1.0
+40067371600,Chickasaw OTSA,statistical,1585,Rural,0.7666,0.9999999999999993
+40065968300,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,1582,Rural,0.6151,1.0
+40031001901,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,1578,Urban,0.7683,1.0
+40121485602,Choctaw OTSA,statistical,1550,Rural,0.3867,0.9999999999999982
+40125501103,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,1547,Rural,0.4724,0.9999999999999987
+40065968700,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,1531,Urban,0.9658,0.9999999999999996
+40065968200,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,1531,Rural,0.5137,0.9999999999999997
+40043959200,Cheyenne and Arapaho OTSA,statistical,1530,Rural,0.6136,1.0
+40131050203,Cherokee OTSA,statistical,1507,Urban,0.5372,1.0
+40089098300,Choctaw OTSA,statistical,1489,Rural,0.7573,1.0
+40011958700,Cheyenne and Arapaho OTSA,statistical,1488,Rural,0.4858,1.0
+40101000200,Creek OTSA,statistical,1485,Urban,0.9361,0.9999999999999993
+40019892301,Chickasaw OTSA,statistical,1471,Rural,0.5329,1.0
+40037020704,Creek OTSA,statistical,1421,Rural,0.4756,0.9999999999999996
+40121486300,Choctaw OTSA,statistical,1417,Urban,0.1474,1.0
+40105172200,Cherokee OTSA,statistical,1416,Rural,0.3628,1.0
+40141070400,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,1413,Rural,0.8526,1.0
+40123089200,Chickasaw OTSA,statistical,1405,Urban,0.8247,1.0
+40041375806,Cherokee OTSA,statistical,1405,Rural,0.534,1.0
+40075963600,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,1402,Rural,0.2946,0.9999999999999983
+40015161900,Caddo-Wichita-Delaware OTSA,statistical,1400,Rural,0.561,1.0
+40011958600,Cheyenne and Arapaho OTSA,statistical,1400,Rural,0.7736,0.9999999999999963
+40141070500,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,1323,Rural,0.7965,1.0
+40067371700,Chickasaw OTSA,statistical,1289,Rural,0.8563,0.9999999999999994
+40019892200,Chickasaw OTSA,statistical,1276,Rural,0.5758,0.9999999999999997
+40091780301,Cherokee OTSA,statistical,1258,Rural,0.5143,1.0
+40113940011,Osage Reservation,legal,1220,Rural,0.5772,0.999999999999997
+40095094804,Chickasaw OTSA,statistical,1194,Rural,0.8057,0.999999999999999
+40087400400,Chickasaw OTSA,statistical,1183,Rural,0.5597,1.0
+40017300400,Cheyenne and Arapaho OTSA,statistical,1183,Urban,0.8383,0.9999999999999997
+40043959300,Cheyenne and Arapaho OTSA,statistical,1159,Rural,0.458,0.999999999999999
+40011958800,Cheyenne and Arapaho OTSA,statistical,1135,Rural,0.1242,1.0
+40019892302,Chickasaw OTSA,statistical,1100,Rural,0.7314,0.9999999999999999
+40045952800,Cheyenne and Arapaho OTSA,statistical,1072,Rural,0.4644,0.840261411490237
+40041375902,Cherokee OTSA,statistical,1070,Rural,0.6754,0.9999999999999998
+40141070200,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,1051,Rural,0.8078,1.0
+40121485601,Choctaw OTSA,statistical,1049,Rural,0.3951,1.0
+40041375804,Cherokee OTSA,statistical,1039,Rural,0.3664,0.9999999999999997
+40051000100,Chickasaw OTSA,statistical,942,Urban,0.9257,1.0
+40109108803,Citizen Potawatomi Nation-Absentee Shawnee OTSA,statistical,940,Rural,0.8719,1.0
+40141070100,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,statistical,928,Rural,0.5547,0.9999999999999983
