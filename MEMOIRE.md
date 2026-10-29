@@ -1,7 +1,7 @@
 # The stratum the scorecard cannot report as missing
 
 **Bias Bounty Mapping Equity Challenge — submitted for *Best Bias Discovery*.**
-Zindi username: **[TO FILL IN]**. No leaderboard submission is
+Zindi username: **Yoh5**. No leaderboard submission is
 associated with this writeup.
 
 Every figure below is computed from the challenge package alone, by three scripts
