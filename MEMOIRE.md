@@ -204,6 +204,9 @@ Three changes, each a column or a count rather than a new dataset:
 
 ## 5. Reproducing this
 
+Everything below is at **https://github.com/Yoh5/bias-bounty-uhe** — the
+three scripts, the result tables they produce, and this write-up.
+
 Three scripts, provided data only, no randomness:
 
 ```
