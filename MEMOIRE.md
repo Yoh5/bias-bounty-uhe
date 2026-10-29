@@ -117,7 +117,12 @@ missing almost everywhere social vulnerability sits above the national median.
 Urban heat exposure is what decides **where cooling centres go**, **which
 neighbourhoods get a heat alert first**, and **who is doorknocked before a
 forecast event**. Those decisions are made at tract level, from exactly the kind
-of layer that is missing here.
+of layer that is missing here. In the terms this challenge uses: the absence
+bears on **emergency dispatch** — which tracts a heat-illness surge is
+anticipated in, and where crews are staged before it — and on **disaster
+relief** — where a cooling centre, a water distribution point or a wellness
+check is placed once an event is under way. It bears less on evacuation
+routing, which heat rarely triggers, and we do not claim it does.
 
 A tract with no UHE value cannot be ranked for heat risk by any analysis built
 on this package. It is not ranked low — it is **absent from the ranking**, which
